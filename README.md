@@ -24,8 +24,8 @@ If you find this code useful in your work and publish your results, please cite 
         AUTHOR = {Alcalde, Albert and Fantuzzi, Giovanni},
         TITLE = {Data-driven discovery of polynomial ODEs with provably bounded solutions},
         YEAR = {2026},
-        HOWPUBLISHED = {arXiv:????.????},
-        URL = {https://arxiv.org/abs/????.????}
+        HOWPUBLISHED = {arXiv:2604.26933 [math.DS]},
+        URL = {https://arxiv.org/abs/2604.26933}
     }
 ```
 
