@@ -2,7 +2,7 @@
 
 Welcome to SILAS! This repository contains code and data used to produce results in the following paper:
 
-[paper-here]
+Albert Alcalde and Giovanni Fantuzzi, *Data-driven discovery of polynomial ODEs with provably bounded solutions*. [arXiv:2604.26933](https://arxiv.org/pdf/2604.26933) (2026).
 
 Most of the code is in MATLAB, with some Python scripts to generate data and post-process results. Details on the repository structure and a short description of each file are given below. To replicate the examples of the paper, you can simply run the scripts `ex01_discovery.m`, `ex02_main.m` and `ex03_main.m`, adjusting parameters as needed to match those given in the paper.
 
