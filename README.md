@@ -125,3 +125,11 @@ silas-main/
 | `save_results.m` | Saves experiment outputs. |
 | `select_fekete.m` | Selects interpolation/sample points using Fekete-style criteria. |
 | `viridis.m` | Provides the Viridis colormap for plots. |
+
+# Funding
+Funded bu:
+*  The European Union’s Horizon Europe MSCA project [ModConFlex](https://modconflex.uni-wuppertal.de/en/) (grant number 101073558)
+*  The DFG-ANR project [MONET](https://homepages.laas.fr/henrion/monet/) (DFG grant number 568735456)
+
+<img src="./logos/logo-01.jpg" alt="ModConFlex" width="256"/>
+<img src="./logos/logo-02.png" alt="Funded by the EU" width="256"/>
