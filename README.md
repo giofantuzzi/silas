@@ -34,8 +34,7 @@ Funded by:
 *  The European Union’s Horizon Europe MSCA project [ModConFlex](https://modconflex.uni-wuppertal.de/en/) (grant number 101073558)
 *  The DFG-ANR project [MONET](https://homepages.laas.fr/henrion/monet/) (DFG grant number 568735456)
 
-<img src="./logos/logo-01.jpg" alt="ModConFlex" width="256"/>
-<img src="./logos/logo-02.png" alt="Funded by the EU" width="256"/>
+<img src="./logos/logo-01.jpg" alt="ModConFlex" height="64"/> <img src="./logos/logo-02.png" alt="Funded by the EU" height="64"/>
 
 
 # Repository Structure
