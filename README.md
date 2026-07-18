@@ -1,5 +1,7 @@
 # Data-driven discovery of bounded polynomial ODEs
 
+<a href="https://doi.org/10.5281/zenodo.21428608"><img src="https://zenodo.org/badge/1223872041.svg" alt="DOI"></a>
+
 Welcome to SILAS! This repository contains code and data used to produce results in the following paper:
 
 Albert Alcalde and Giovanni Fantuzzi, *Data-driven discovery of polynomial ODEs with provably bounded solutions*. [arXiv:2604.26933](https://arxiv.org/pdf/2604.26933) (2026).
