@@ -11,10 +11,11 @@ The code is provided "as-is" and without any guarantees. See the license file fo
 **Authors:** Albert Alcalde, Giovanni Fantuzzi (FAU Erlangen-Nuernberg)
 
 ## Dependencies
-To run the code, you must first install the following MATLAB packages:
-* YALMIP
-* MOSEK (or another SDP solver compatible with YALMIP)
-* ChebFun
+To run the code, you must first install the following MATLAB packages and functions from MATLAB's FileExchange:
+* [YALMIP](https://yalmip.github.io/)
+* [MOSEK](https://www.mosek.com/), or another SDP solver compatible with YALMIP
+* [ChebFun](https://www.chebfun.org/)
+* [partitions.m](https://www.mathworks.com/matlabcentral/fileexchange/12009-partitions-of-an-integer)
 
 ## Cite us
 If you find this code useful in your work and publish your results, please cite the arXiv preprint above. An sample .bib code follows.
