@@ -1,7 +1,6 @@
 # Data-driven discovery of bounded polynomial ODEs
 
-<a href="https://doi.org/10.5281/zenodo.21428608"><img src="https://zenodo.org/badge/1223872041.svg"></a>
-
+## Information
 Welcome to SILAS! This repository contains code and data used to produce results in the following paper:
 
 Albert Alcalde and Giovanni Fantuzzi, *Data-driven discovery of polynomial ODEs with provably bounded solutions*. [arXiv:2604.26933](https://arxiv.org/pdf/2604.26933) (2026).
@@ -11,6 +10,10 @@ Most of the code is in MATLAB, with some Python scripts to generate data and pos
 The code is provided "as-is" and without any guarantees. See the license file for more information.
 
 **Authors:** Albert Alcalde, Giovanni Fantuzzi (FAU Erlangen-Nuernberg)
+
+## Releases
+<a href="https://doi.org/10.5281/zenodo.21428608"><img src="https://zenodo.org/badge/1223872041.svg" alt="DOI"></a>
+
 
 ## Dependencies
 To run the code, you must first install the following MATLAB packages and functions from MATLAB's FileExchange:
